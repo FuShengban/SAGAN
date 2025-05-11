@@ -1,4 +1,4 @@
-# SAGAN: Pre-trained GAN Model for 2D Urban Wind Field Prediction
+# SAGAN: Pre-trained GAN Model for 2D Wind Fields of Building group Prediction
 
 This repository contains verification code for the GAN-based urban wind field prediction model presented in the paper *[XXX]*. (Replace with your paper title)
 
